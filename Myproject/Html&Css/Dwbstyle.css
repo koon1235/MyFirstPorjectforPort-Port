@@ -14,7 +14,7 @@ root {
 
 body {
     width: 10%;
-    background-image: url('../bc-Dogwithbone.jpg');
+    background-image: url('../../img/bc-Dogwithbone.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
